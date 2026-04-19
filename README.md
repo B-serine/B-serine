@@ -36,7 +36,57 @@ const serine = {
 };
 ```
 
-### 💼 Current Projects
+---
+
+### 🔥 Current Projects
+
+<table>
+<tr>
+<td width="50%">
+
+#### 📈 Time Series Analysis
+> Forecasting & temporal pattern recognition
+- 🕐 Sequential data modeling
+- 📉 Trend & seasonality decomposition
+- 🤖 ML-based forecasting models
+
+</td>
+<td width="50%">
+
+#### 🌍 Algeria Export Opportunities Detection
+> ML-powered trade intelligence
+- 📊 Market gap & opportunity analysis
+- 🤖 Machine learning classification
+- 🇩🇿 Algeria-focused export insights
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🔐 Security Suite
+> Two-part cybersecurity project
+- 🧠 **Behavioral Biometric Auth System** — AI-based authentication using typing rhythm & mouse movement anomaly detection; learns user behavior to detect impostors even when passwords are stolen
+- 📝 **Security Quiz Website** — Interactive platform for security awareness
+
+</td>
+<td width="50%">
+
+#### 🛰️ Urban Sprawl Geospatial Pipeline
+> Notebook-based remote sensing & GIS analysis
+- 🗺️ Multi-temporal Landsat imagery (2000–2024)
+- 🏙️ Built-up area classification with spectral indices & ML
+- 📐 Sprawl metrics: growth rate, compactness, fragmentation
+- 🌐 Multi-city comparison & GHSL validation
+- 📊 Interactive geospatial dashboard
+
+</td>
+</tr>
+</table>
+
+---
+
+### ✅ Done Projects
 
 <table>
 <tr>
@@ -71,12 +121,29 @@ const serine = {
 </td>
 <td width="50%">
 
-#### 🌱 Currently Learning
-- Flutter best practices
-- Firebase backend
-- Data mining
+#### 💪 Gym Full-Stack Website
+> All-in-one fitness platform
+- 🛒 Integrated shop & product listings
+- 🥗 Recipes & nutrition section
+- 🏋️ Workout plans & programs
+- 👥 Coaches finder & profiles
+- 📋 Membership & training plans
+- 💬 User interaction & community
 
+</td>
+</tr>
+<tr>
+<td width="50%">
 
+#### 🏭 AI-Based Warehouse Organization
+> Intelligent warehouse management system
+- 🤖 AI-driven storage optimization
+- 📦 Smart inventory management
+- 📍 Automated item placement & routing
+- 📊 Real-time tracking & analytics
+
+</td>
+<td width="50%">
 </td>
 </tr>
 </table>
@@ -157,22 +224,7 @@ const serine = {
 
 </details>
 
-
-
-
-
-<!--<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=B-serine&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" alt="GitHub Stats"/>
- <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=B-serine&theme=radical&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B9D&currStreakLabel=6C63FF" alt="GitHub Streak"/> 
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-serine&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=B-serine&theme=react-dark&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B9D" alt="Activity Graph"/>
-
- </div>  -->
-
 ---
-
 
 ### 🤝 Connect With Me
 
@@ -212,7 +264,7 @@ const serine = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
-### Thanks for stopping by ❤️! I’m currently building and learning — exciting projects are coming soon
+### Thanks for stopping by ❤️! I'm currently building and learning — exciting projects are coming soon
 
 ![Profile Views](https://komarev.com/ghpvc/?username=B-serine&color=6C63FF&style=for-the-badge)
 
