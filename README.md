@@ -44,41 +44,22 @@ const serine = {
 <tr>
 <td width="50%">
 
-#### 📈 Time Series Analysis
-> Forecasting & temporal pattern recognition
-- 🕐 Sequential data modeling
-- 📉 Trend & seasonality decomposition
-- 🤖 ML-based forecasting models
+#### 💬 Sentiment Analysis Dashboard
+> NLP & deep learning powered customer review insights
+- 🗣️ Sentiment classification on customer reviews using NLP
+- 🧠 Deep learning models for accurate sentiment detection
+- 📊 Interactive dashboard visualizing sentiment trends
+- 🔍 Insights to support customer experience decisions
 
 </td>
 <td width="50%">
 
-#### 🌍 Algeria Export Opportunities Detection
-> ML-powered trade intelligence
-- 📊 Market gap & opportunity analysis
-- 🤖 Machine learning classification
-- 🇩🇿 Algeria-focused export insights
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 🔐 Security Suite
-> Two-part cybersecurity project
-- 🧠 **Behavioral Biometric Auth System** — AI-based authentication using typing rhythm & mouse movement anomaly detection; learns user behavior to detect impostors even when passwords are stolen
-- 📝 **Security Quiz Website** — Interactive platform for security awareness
-
-</td>
-<td width="50%">
-
-#### 🛰️ Urban Sprawl Geospatial Pipeline
-> Notebook-based remote sensing & GIS analysis
-- 🗺️ Multi-temporal Landsat imagery (2000–2024)
-- 🏙️ Built-up area classification with spectral indices & ML
-- 📐 Sprawl metrics: growth rate, compactness, fragmentation
-- 🌐 Multi-city comparison & GHSL validation
-- 📊 Interactive geospatial dashboard
+#### 👨‍👩‍👧 Face Enhancement for Kinship Verification
+> Deep learning-based facial enhancement for kinship recognition
+- 🖼️ Face image enhancement algorithms to improve verification accuracy
+- 🧬 Deep learning models for kinship verification
+- 🔬 Combines image processing with facial feature analysis
+- 🎯 Aims to improve accuracy of family relationship detection from images
 
 </td>
 </tr>
@@ -141,6 +122,47 @@ const serine = {
 - 📦 Smart inventory management
 - 📍 Automated item placement & routing
 - 📊 Real-time tracking & analytics
+
+</td>
+<td width="50%">
+
+#### 📈 Time Series Analysis
+> Forecasting & temporal pattern recognition
+- 🕐 Sequential data modeling
+- 📉 Trend & seasonality decomposition
+- 🤖 ML-based forecasting models
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🌍 Algeria Export Opportunities Detection
+> ML-powered trade intelligence
+- 📊 Market gap & opportunity analysis
+- 🤖 Machine learning classification
+- 🇩🇿 Algeria-focused export insights
+
+</td>
+<td width="50%">
+
+#### 🔐 Security Suite
+> Two-part cybersecurity project
+- 🧠 **Behavioral Biometric Auth System** — AI-based authentication using typing rhythm & mouse movement anomaly detection; learns user behavior to detect impostors even when passwords are stolen
+- 📝 **Security Quiz Website** — Interactive platform for security awareness
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🛰️ Urban Sprawl Geospatial Pipeline
+> Notebook-based remote sensing & GIS analysis
+- 🗺️ Multi-temporal Landsat imagery (2000–2024)
+- 🏙️ Built-up area classification with spectral indices & ML
+- 📐 Sprawl metrics: growth rate, compactness, fragmentation
+- 🌐 Multi-city comparison & GHSL validation
+- 📊 Interactive geospatial dashboard
 
 </td>
 <td width="50%">
