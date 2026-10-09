@@ -29,7 +29,7 @@
 const serine = {
     location: "Algeria 🇩🇿",
     education: "ENSIA",
-    interests: ["AI", "Web Dev", "Mobile Dev","ML","time series","Data Mining","Deep learning" ,"NLP", "computer vision"],
+    interests: ["AI", "Web Dev", "Mobile Dev","Machine learning","time series","Data Mining","Deep learning" ,"NLP", "computer vision"],
     currentFocus: "Building innovative solutions",
     philosophy: "Turn ideas into reality ✨",
     funFact: "I love seeing physical results from code!"
